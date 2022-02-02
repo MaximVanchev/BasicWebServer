@@ -23,7 +23,7 @@ namespace BasicWebServer.Demo.Controllers
 
         private const string FileName = @"content.txt";
 
-        private const string Site = "https://www.pornhub.com/view_video.php?viewkey=ph5a7ba32a1893c";
+        private const string Site = "https://www.google.bg/";
         public HomeController(Request request)
             : base(request)
         { }
