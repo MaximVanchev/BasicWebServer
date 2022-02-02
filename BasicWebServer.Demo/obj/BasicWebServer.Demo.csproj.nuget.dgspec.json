@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Programs\\SoftUni Courses\\C# Web Basics\\BasicWebServer\\BasicWebServer.Demo\\BasicWebServer.Demo.csproj": {}
+    "D:\\Programs\\Programing\\SoftUni Courses\\C# Web Basics\\BasicWebServer\\BasicWebServer.Demo\\BasicWebServer.Demo.csproj": {}
   },
   "projects": {
-    "D:\\Programs\\SoftUni Courses\\C# Web Basics\\BasicWebServer\\BasicWebServer.Demo\\BasicWebServer.Demo.csproj": {
+    "D:\\Programs\\Programing\\SoftUni Courses\\C# Web Basics\\BasicWebServer\\BasicWebServer.Demo\\BasicWebServer.Demo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Programs\\SoftUni Courses\\C# Web Basics\\BasicWebServer\\BasicWebServer.Demo\\BasicWebServer.Demo.csproj",
+        "projectUniqueName": "D:\\Programs\\Programing\\SoftUni Courses\\C# Web Basics\\BasicWebServer\\BasicWebServer.Demo\\BasicWebServer.Demo.csproj",
         "projectName": "BasicWebServer.Demo",
-        "projectPath": "D:\\Programs\\SoftUni Courses\\C# Web Basics\\BasicWebServer\\BasicWebServer.Demo\\BasicWebServer.Demo.csproj",
+        "projectPath": "D:\\Programs\\Programing\\SoftUni Courses\\C# Web Basics\\BasicWebServer\\BasicWebServer.Demo\\BasicWebServer.Demo.csproj",
         "packagesPath": "C:\\Users\\Maxim\\.nuget\\packages\\",
-        "outputPath": "D:\\Programs\\SoftUni Courses\\C# Web Basics\\BasicWebServer\\BasicWebServer.Demo\\obj\\",
+        "outputPath": "D:\\Programs\\Programing\\SoftUni Courses\\C# Web Basics\\BasicWebServer\\BasicWebServer.Demo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -34,8 +34,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Programs\\SoftUni Courses\\C# Web Basics\\BasicWebServer\\BasicWebServer.Server\\BasicWebServer.Server.csproj": {
-                "projectPath": "D:\\Programs\\SoftUni Courses\\C# Web Basics\\BasicWebServer\\BasicWebServer.Server\\BasicWebServer.Server.csproj"
+              "D:\\Programs\\Programing\\SoftUni Courses\\C# Web Basics\\BasicWebServer\\BasicWebServer.Server\\BasicWebServer.Server.csproj": {
+                "projectPath": "D:\\Programs\\Programing\\SoftUni Courses\\C# Web Basics\\BasicWebServer\\BasicWebServer.Server\\BasicWebServer.Server.csproj"
               }
             }
           }
@@ -68,14 +68,14 @@
         }
       }
     },
-    "D:\\Programs\\SoftUni Courses\\C# Web Basics\\BasicWebServer\\BasicWebServer.Server\\BasicWebServer.Server.csproj": {
+    "D:\\Programs\\Programing\\SoftUni Courses\\C# Web Basics\\BasicWebServer\\BasicWebServer.Server\\BasicWebServer.Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Programs\\SoftUni Courses\\C# Web Basics\\BasicWebServer\\BasicWebServer.Server\\BasicWebServer.Server.csproj",
+        "projectUniqueName": "D:\\Programs\\Programing\\SoftUni Courses\\C# Web Basics\\BasicWebServer\\BasicWebServer.Server\\BasicWebServer.Server.csproj",
         "projectName": "BasicWebServer.Server",
-        "projectPath": "D:\\Programs\\SoftUni Courses\\C# Web Basics\\BasicWebServer\\BasicWebServer.Server\\BasicWebServer.Server.csproj",
+        "projectPath": "D:\\Programs\\Programing\\SoftUni Courses\\C# Web Basics\\BasicWebServer\\BasicWebServer.Server\\BasicWebServer.Server.csproj",
         "packagesPath": "C:\\Users\\Maxim\\.nuget\\packages\\",
-        "outputPath": "D:\\Programs\\SoftUni Courses\\C# Web Basics\\BasicWebServer\\BasicWebServer.Server\\obj\\",
+        "outputPath": "D:\\Programs\\Programing\\SoftUni Courses\\C# Web Basics\\BasicWebServer\\BasicWebServer.Server\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
