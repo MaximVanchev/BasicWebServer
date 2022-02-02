@@ -37,7 +37,7 @@ namespace BasicWebServer.Server
         {
             serverListener.Start();
 
-            Console.WriteLine("Slusham anal grozen");
+            Console.WriteLine("Slusham");
 
             while (true)
             {

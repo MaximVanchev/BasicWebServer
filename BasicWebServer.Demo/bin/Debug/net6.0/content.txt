@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<!--[if lt IE 7 ]> <html class="ie6 language-en" lang="en"> <![endif]-->
+<!--[if IE 7 ]>	<html class="ie7 language-en" lang="en"> <![endif]-->
+<!--[if IE 8 ]>	<html class="ie8 language-en" lang="en"> <![endif]-->
+<!--[if IE 9 ]>	<html class="ie9 language-en" lang="en"> <![endif]-->
+<!--[if !(IE)]><!--> <html class="language-en" lang="en"> <!--<![endif]-->
+
+
+<head>
+	<meta http-equiv="Content-type" content="text/html; charset=UTF-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+    
+    
+        <link rel="preconnect" href="//ai.phncdn.com/" />
+<link rel="preconnect" href="//ci.phncdn.com" />
+<link rel="preconnect" href="//di.phncdn.com" />
+<link rel="preconnect" href="//ss.phncdn.com" />
+<link rel="preconnect" href="//ei.phncdn.com" />
+<link rel="preconnect" href="//fonts.googleapis.com" crossorigin />
+<link rel="preconnect" href="//static.trafficjunky.com" />
+
+    <link rel="dns-prefetch" href="//di.phncdn.com">
+    <link rel="dns-prefetch" href="//as.phncdn.com/">
+    <link rel="dns-prefetch" href="//ai.phncdn.com/">
+    <link rel="dns-prefetch" href="//ci.phncdn.com/">
+    <link rel="dns-prefetch" href="//cs.phncdn.com/">
+    <link rel="dns-prefetch" href="//ss.phncdn.com">
+    <link rel="dns-prefetch" href="//cdn1-smallimg.phncdn.com/">
+    <link rel="dns-prefetch" href="//www.gstatic.com">
+    <link rel="dns-prefetch" href="//apis.google.com">
+    <link rel="dns-prefetch" href="//ajax.googleapis.com">
+    <link rel="dns-prefetch" href="//fonts.googleapis.com">
+    <link rel="dns-prefetch" href="//www.google-analytics.com">
+    <link rel="dns-prefetch" href="//static.trafficjunky.com">
+    <link rel="dns-prefetch" href="//media.trafficjunky.net">
+    <link rel="dns-prefetch" href="//vz-cdn2.trafficjunky.net">
+    <link rel="dns-prefetch" href="//hw-cdn2.trafficjunky.net">
+    <link rel="dns-prefetch" href="//vz-cdn2.adtng.com">
+    <link rel="dns-prefetch" href="//hw-cdn2.adtng.com">
+    <link rel="dns-prefetch" href="//ads2.content
