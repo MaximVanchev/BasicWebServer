@@ -1,4 +1,5 @@
-﻿using System;
+﻿using BasicWebServer.Server.Common;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -24,8 +25,12 @@ namespace BasicWebServer.Server.HTTP
 
         public Session Session { get; private set; }
 
-        public static Request Parse(string request)
+        public static IServiceCollection ServiceCollection { get; private set; }
+
+        public static Request Parse(string request , IServiceCollection serviceCollection)
         {
+            ServiceCollection = serviceCollection;
+
             var lines = request.Split("\r\n");
 
             var startLine = lines.First().Split(" ");
